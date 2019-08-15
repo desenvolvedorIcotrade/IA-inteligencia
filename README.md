@@ -108,7 +108,7 @@ Você deverá cumprir os seguintes itens:
 
 1. Entre na sua conta da [IBM Cloud](https://cloud.ibm.com) e acesse o [catálogo](https://cloud.ibm.com/catalog?category=ai).
 
-2. Localize o serviço de [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) e clique sobre ele. Não há a necessidade de mudar o nome. Altere a **Região** para **`Washington-DC`**. No desafio, você treinará o Watson nessa região.
+2. Localize o serviço de [Watson Assistant] e clique sobre ele. Não há a necessidade de mudar o nome. Altere a **Região** para **`Washington-DC`**. No desafio, você treinará o Watson nessa região.
 
 3. Clique em "Create" para criar a instância do serviço.
 
